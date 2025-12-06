@@ -1,0 +1,8 @@
+{
+  "name": "慢性病健康管理 (Chronic Care)",
+  "description": "A comprehensive health management application for chronic disease patients featuring medication reminders, health data tracking, doctor consultation, and system diagnostics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
